@@ -16,7 +16,7 @@ const Guest = () => {
                     <p>With the <span className='text-indigo-700 font-bold'>User</span> role you can access <span className='text-indigo-700 font-bold'>User, Guest pages</span></p>
                     <p>With the <span className='text-indigo-700 font-bold'>Guest</span> role you can access <span className='text-indigo-700 font-bold'>only Guest page</span></p>
                 </div>
-                =
+
             </div>
         </div>
     )
